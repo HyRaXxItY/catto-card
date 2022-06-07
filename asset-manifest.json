@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catto-card/static/css/main.b14768e3.css",
+    "main.js": "/catto-card/static/js/main.c180c208.js",
+    "static/js/787.2e06231d.chunk.js": "/catto-card/static/js/787.2e06231d.chunk.js",
+    "index.html": "/catto-card/index.html",
+    "main.b14768e3.css.map": "/catto-card/static/css/main.b14768e3.css.map",
+    "main.c180c208.js.map": "/catto-card/static/js/main.c180c208.js.map",
+    "787.2e06231d.chunk.js.map": "/catto-card/static/js/787.2e06231d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14768e3.css",
+    "static/js/main.c180c208.js"
+  ]
+}
