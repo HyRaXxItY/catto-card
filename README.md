@@ -12,6 +12,7 @@ THIS REPO CONTAINS 2 BRANCH:
 
 I have used simple components that have different functionalities to them, Maily the card and search.
 API is used to fetch the names and cats image (2 API for name and Image seperately).
+searching component filters the cards and display on those who includes the search input 
 
 # Run the app:
   --> fork the "master" branch
